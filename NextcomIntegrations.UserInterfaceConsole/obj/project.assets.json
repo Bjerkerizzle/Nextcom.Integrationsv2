@@ -1,0 +1,125 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NextcomIntegrations.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "NextcomIntegrations.Core": "1.0.0",
+          "NextcomIntegrations.Infrastructure": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NextcomIntegrations.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NextcomIntegrations.Application.dll": {}
+        }
+      },
+      "NextcomIntegrations.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/NextcomIntegrations.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NextcomIntegrations.Core.dll": {}
+        }
+      },
+      "NextcomIntegrations.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "NextcomIntegrations.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NextcomIntegrations.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NextcomIntegrations.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NextcomIntegrations.Application/1.0.0": {
+      "type": "project",
+      "path": "../NextcomIntegrations.Application/NextcomIntegrations.Application.csproj",
+      "msbuildProject": "../NextcomIntegrations.Application/NextcomIntegrations.Application.csproj"
+    },
+    "NextcomIntegrations.Core/1.0.0": {
+      "type": "project",
+      "path": "../NextcomIntegrations.Core/NextcomIntegrations.Core.csproj",
+      "msbuildProject": "../NextcomIntegrations.Core/NextcomIntegrations.Core.csproj"
+    },
+    "NextcomIntegrations.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../NextcomIntegrations.Infrastructure/NextcomIntegrations.Infrastructure.csproj",
+      "msbuildProject": "../NextcomIntegrations.Infrastructure/NextcomIntegrations.Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "NextcomIntegrations.Application >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Bjerkerizzle\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Bjerkerizzle\\Documents\\GitHub\\NextcomIntegrations\\NextcomIntegrations.UserInterfaceConsole\\NextcomIntegrations.UserInterfaceConsole.csproj",
+      "projectName": "NextcomIntegrations.UserInterfaceConsole",
+      "projectPath": "C:\\Users\\Bjerkerizzle\\Documents\\GitHub\\NextcomIntegrations\\NextcomIntegrations.UserInterfaceConsole\\NextcomIntegrations.UserInterfaceConsole.csproj",
+      "packagesPath": "C:\\Users\\Bjerkerizzle\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Bjerkerizzle\\Documents\\GitHub\\NextcomIntegrations\\NextcomIntegrations.UserInterfaceConsole\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Bjerkerizzle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\Bjerkerizzle\\Documents\\GitHub\\NextcomIntegrations\\NextcomIntegrations.Application\\NextcomIntegrations.Application.csproj": {
+              "projectPath": "C:\\Users\\Bjerkerizzle\\Documents\\GitHub\\NextcomIntegrations\\NextcomIntegrations.Application\\NextcomIntegrations.Application.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

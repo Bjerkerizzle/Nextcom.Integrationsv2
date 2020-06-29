@@ -1,0 +1,9 @@
+C:\Users\Bjerkerizzle\Documents\GitHub\NextcomIntegrations\NextcomIntegrations.Core\bin\Debug\netcoreapp3.1\NextcomIntegrations.Core.deps.json
+C:\Users\Bjerkerizzle\Documents\GitHub\NextcomIntegrations\NextcomIntegrations.Core\bin\Debug\netcoreapp3.1\NextcomIntegrations.Core.dll
+C:\Users\Bjerkerizzle\Documents\GitHub\NextcomIntegrations\NextcomIntegrations.Core\bin\Debug\netcoreapp3.1\NextcomIntegrations.Core.pdb
+C:\Users\Bjerkerizzle\Documents\GitHub\NextcomIntegrations\NextcomIntegrations.Core\obj\Debug\netcoreapp3.1\NextcomIntegrations.Core.csprojAssemblyReference.cache
+C:\Users\Bjerkerizzle\Documents\GitHub\NextcomIntegrations\NextcomIntegrations.Core\obj\Debug\netcoreapp3.1\NextcomIntegrations.Core.AssemblyInfoInputs.cache
+C:\Users\Bjerkerizzle\Documents\GitHub\NextcomIntegrations\NextcomIntegrations.Core\obj\Debug\netcoreapp3.1\NextcomIntegrations.Core.AssemblyInfo.cs
+C:\Users\Bjerkerizzle\Documents\GitHub\NextcomIntegrations\NextcomIntegrations.Core\obj\Debug\netcoreapp3.1\NextcomIntegrations.Core.csproj.CoreCompileInputs.cache
+C:\Users\Bjerkerizzle\Documents\GitHub\NextcomIntegrations\NextcomIntegrations.Core\obj\Debug\netcoreapp3.1\NextcomIntegrations.Core.dll
+C:\Users\Bjerkerizzle\Documents\GitHub\NextcomIntegrations\NextcomIntegrations.Core\obj\Debug\netcoreapp3.1\NextcomIntegrations.Core.pdb
